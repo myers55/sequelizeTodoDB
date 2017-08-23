@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sunshine",
+    "password": null,
+    "database": "todoListSequelizedb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sunshine",
+    "password": null,
+    "database": "todoListSequelizedb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sunshine",
+    "password": null,
+    "database": "todoListSequelizedb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
